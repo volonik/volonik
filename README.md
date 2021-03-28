@@ -8,3 +8,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+
+### Contact me
+[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk)](https://vk.com/nikodim2015)
