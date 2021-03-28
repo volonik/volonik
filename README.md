@@ -1,5 +1,5 @@
-## Hi!
+# Hi!
 
-## I`m a trainee Frontend Developer
+### I`m a trainee Frontend Developer
 
 Languages And Tools
